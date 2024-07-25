@@ -1,0 +1,11 @@
+package com.spring.course.entities;
+
+public class Catergory {
+
+	private Integer id;
+	private String name;
+	
+	public Category
+	
+	
+}

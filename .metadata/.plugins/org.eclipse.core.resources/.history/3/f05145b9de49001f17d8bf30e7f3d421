@@ -1,0 +1,5 @@
+package com.spring.course.entities;
+
+public class Catergory {
+
+}

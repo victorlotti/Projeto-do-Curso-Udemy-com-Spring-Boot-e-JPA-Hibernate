@@ -1,0 +1,19 @@
+package com.spring.course.entities;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Product {
+
+	private Integer id;
+	private String name;
+	private String description;
+	private Double price;
+	private String imgUrl;
+	
+	/*Utilizando o set para não ocorrer 
+	  repetições de categoria em um produto*/
+	
+	private Set<Category> categories = new HashSet<>();
+	
+}

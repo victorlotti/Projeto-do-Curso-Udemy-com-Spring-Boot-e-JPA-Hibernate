@@ -1,0 +1,5 @@
+package com.spring.course.repositories;
+
+public class CategoryRepository {
+
+}

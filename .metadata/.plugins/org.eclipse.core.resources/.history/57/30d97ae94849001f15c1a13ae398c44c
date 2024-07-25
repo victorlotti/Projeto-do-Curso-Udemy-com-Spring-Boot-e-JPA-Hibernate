@@ -1,0 +1,5 @@
+package com.spring.course.services;
+
+public class UserService {
+
+}
